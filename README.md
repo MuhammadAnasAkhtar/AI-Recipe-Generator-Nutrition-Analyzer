@@ -9,7 +9,7 @@
 
 **AI-Powered Recipe Generation with Smart Nutrition Analysis & Shopping Lists**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API Documentation](#-api-documentation) • [Screenshots](#-screenshots)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API Documentation](#-api-documentation) 
 
 </div>
 
@@ -198,17 +198,6 @@ Check API health status.
   "service": "AI Recipe Generator"
 }
 ```
-
-## 🎨 Screenshots
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400/667eea/ffffff?text=Beautiful+Glass+Morphism+UI)
-
-### Recipe Results
-![Recipe Results](https://via.placeholder.com/800x400/4ecdc4/ffffff?text=Recipe+with+Nutrition+Analysis)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x600/ff6b6b/ffffff?text=Mobile+Responsive+Design)
 
 ## 🔧 Configuration
 
