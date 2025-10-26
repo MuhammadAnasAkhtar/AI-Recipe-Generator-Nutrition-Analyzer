@@ -331,13 +331,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for the beautiful utility-first CSS framework
 - **Font Awesome** for the incredible icon library
 
-## 📞 Support
-
-- **Documentation:** [GitHub Wiki](https://github.com/yourusername/ai-recipe-generator/wiki)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/ai-recipe-generator/issues)
-- **Email:** your-email@example.com
-
----
 
 <div align="center">
 
