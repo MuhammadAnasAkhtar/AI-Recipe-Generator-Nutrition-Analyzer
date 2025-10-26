@@ -1,0 +1,7 @@
+streamlit
+langgraph
+pandas
+fastapi
+uvicorn
+pydantic
+python-multipart
